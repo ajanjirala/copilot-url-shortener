@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"my-mcp-server-aac9fdd9": {
+			"url": "https://mcp.neon.tech/mcp",
+			"type": "http"
+		}
+	}
+}
